@@ -1,0 +1,83 @@
+body{
+	background-image: url("ww.jpg");
+	background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+}
+a:link {
+	text-decoration: none;
+
+}
+#lista ul  {
+	list-style: none;
+	padding: 0;
+}
+#lista a{
+	padding: 10px 10px;
+	margin: 10px 0px;
+	color: #d46977;
+	line-height: 38px;
+    border-bottom: 2px solid #13090a;
+}
+img{
+	width: 500px;
+
+}
+#izq {
+	background-color: rgba(133, 105, 169, 0.1);
+	padding:5px;
+	border:2px solid black;
+	border-radius: 15px;
+	width: 20%;
+	float:left;
+	font-size: 18px;
+}
+#Total {
+	color: #E5D6F9;
+	font-family: Tahoma, helvetica, sans-serif;
+	font-size: 20px;
+	width: 75%;
+	float: right;
+}
+#Personal {
+	background-color: rgba(133, 105, 169, 0.2);
+	padding:5px;
+	border:2px solid black;
+	border-radius: 15px;
+}
+#quien {
+	color:#690033;
+	font-family: tahoma, helvetica, sans-serif;
+}
+#FormacionEducacional {
+	background-color: rgba(133, 105, 169, 0.1);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding:5px;
+	border:2px solid black;
+	border-radius: 15px;
+}
+#ExperienciaLaboral{
+	background-color: rgba(133, 105, 169, 0.1);
+	margin-bottom: 20px;
+	padding: 5px;
+	border:2px solid black;
+	border-radius: 15px;
+}
+#Portfolio {
+	background-color: rgba(133, 105, 169, 0.1);
+	margin-bottom: 20px;
+	padding:5px;
+	border:2px solid black;
+	border-radius: 15px;
+}
+h1 {
+	font-family: Tahoma, helvetica, arial, sans-serif; 
+	text-decoration: underline;
+	color: #520028;
+	font-style: italic;
+	font-size: 30px;
+}
+h2{
+	color: #690033;
+}
